@@ -1,0 +1,71 @@
+
+body {
+  background-color: #000000;
+
+  background-image: url('../0.jpg');
+  background-size: 1366px 768px;
+}
+
+main {
+  /* display: flex; */
+}
+
+.first {
+  position: absolute;
+  top: 47px;
+  left: 434px;
+}
+
+.second {
+  position: absolute;
+  top: 26px;
+  left: 580px;
+}
+
+.third {
+  position: absolute;
+  top: 181px;
+  left: 412px;
+}
+
+.fourth {
+  position: absolute;
+  top: 411px;
+  left: 698px;
+}
+
+.fifth {
+  position: absolute;
+  top: 528px;
+  left: 649px;
+}
+
+.sixth {
+  position: absolute;
+  top: 20px;
+  left: 817px;
+}
+
+.seventh {
+  position: absolute;
+  top: 121px;
+  left: 755px;
+}
+
+.eighth {
+  position: absolute;
+  top: 233px;
+  left: 667px;
+}
+
+.ninth {
+  position: absolute;
+  top: 229px;
+  left: 778px;
+}
+
+.square {
+  position: absolute;
+  top: 710px;
+  left: 395px;
+}
